@@ -1,0 +1,122 @@
+.container{
+
+}
+
+.upper{
+  background-color:#edf0f5;
+  padding:80px;
+
+}
+
+.fb{
+  position:relative;
+  left:500px;
+  top:80px;
+}
+
+.connect{
+  position:relative;
+  left:500px;
+  top:80px;
+}
+
+h2{
+  color:#1877f2;
+  font-family: "Klavika Bold";
+}
+
+.icons{
+  display:inline;
+  padding:56px;
+  position: relative;
+  left:500px;
+  top:80px;
+}
+
+img{
+  width:56px;
+  height:56px;
+}
+
+.create{
+margin:100px;
+}
+
+form{
+  position:relative;
+  bottom: 180px;
+  background-color: white;
+  padding:45px;
+  padding-right:0px;
+  padding-bottom: 120px;
+  border-radius:5px;
+  float:right;
+  border-color: white;
+  display: inline;
+
+
+
+}
+
+input[type=text]{
+background-color:#FFFCC6;
+border-radius:5px;
+padding: 14px 90px;
+font-size: 10px;
+}
+
+input[type=submit]{
+background-color:#1E74F3;
+color:white;
+border-radius:5px;
+padding: 14px 120px;
+}
+
+input[type=button]{
+background-color:#4DA93A;
+color:white;
+border-radius:5px;
+padding: 14px 9px;
+position: relative;
+top:100px;
+right:350px;
+}
+
+.create{
+  position: relative;
+  top:100px;
+  left:1100px;
+  font-size: 13px;
+  word-spacing: 0px;
+
+}
+
+a.forgot{
+  color:#3DB0FA;
+  text-decoration: none;
+  position: relative;
+  top:50px;
+  right:200px;
+
+}
+
+a.links{
+  color:#6B7ECC;
+  text-decoration: none;
+}
+
+
+
+.lowerc{
+  position:relative;
+  top:30px;
+  left:350px;
+  word-spacing: 7px;
+  line-height: 1.8;
+  font-size: 12px;
+
+}
+
+.footer{
+color:#B1C0D0;
+}
